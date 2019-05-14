@@ -1,2 +1,2 @@
 # OSMonitoring
-npm install psutil
+pip install psutil
