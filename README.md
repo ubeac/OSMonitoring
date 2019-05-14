@@ -1,1 +1,2 @@
 # OSMonitoring
+npm install psutil
