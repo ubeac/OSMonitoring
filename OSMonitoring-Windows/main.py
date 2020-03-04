@@ -10,7 +10,7 @@ from ohm_sensors import get_ohm_sensors
 
 # Configuration section
 UBEAC_URL = 'hub.ubeac.io'
-GATEWAY_URL = 'http://myworkspace.hub.ubeac.io/myPC'
+GATEWAY_URL = '/MyComputer'
 DEVICE_FRIENDLY_NAME = 'My Computer'
 SENT_INTERVAL = 5 # Sent data interval in second
 
