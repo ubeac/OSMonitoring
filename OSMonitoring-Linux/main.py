@@ -12,8 +12,8 @@ from internet_speed import get_internet_speed
 
 # Configuration section
 UBEAC_URL = 'hub.ubeac.io'
-GATEWAY_URL = 'http://myworkspace.hub.ubeac.io/myPC'
-DEVICE_FRIENDLY_NAME = 'My Raspberry'
+GATEWAY_URL = '/MyComputer'
+DEVICE_FRIENDLY_NAME = 'My Computer'
 SENT_INTERVAL = 5 # Sent data interval in second
 
 def main():
